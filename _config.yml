@@ -1,0 +1,14 @@
+layout_spectrum: 0.21431056270375848
+typography_spectrum: 0.04026382835581899
+color:
+  brandStrength: 0.8148930962197483
+  lightness: 0.3041664441116154
+  saturation: 0.1107492670416832
+  rhythmicContrast: 0.8753692165482789
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: fast sites
